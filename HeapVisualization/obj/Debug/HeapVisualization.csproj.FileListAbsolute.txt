@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\bin\Debug\HeapVisualization.exe.config
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\bin\Debug\HeapVisualization.exe
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\bin\Debug\HeapVisualization.pdb
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.HeapVisualization.resources
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.Properties.Resources.resources
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.exe
+C:\Users\Максим\source\repos\HeapVisualization\HeapVisualization\obj\Debug\HeapVisualization.pdb
